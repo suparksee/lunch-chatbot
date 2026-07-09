@@ -1,2 +1,3 @@
-# Wt-eat
-AI와빅데이터 강의 3?일차 실습
+## 점심 메뉴 추천 챗봇
+
+[챗봇 실행하기](https://cocomin9.github.io/lunch-chatbot/)
